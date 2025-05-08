@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazing_cards", "Amazing_cards\Amazing_cards.csproj", "{DACA9A1A-22F3-48B9-A787-F6AFD06F3AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACA9A1A-22F3-48B9-A787-F6AFD06F3AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACA9A1A-22F3-48B9-A787-F6AFD06F3AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACA9A1A-22F3-48B9-A787-F6AFD06F3AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACA9A1A-22F3-48B9-A787-F6AFD06F3AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F50A2E-A7DA-4C45-8217-D916D1AC497B}
+	EndGlobalSection
+EndGlobal
